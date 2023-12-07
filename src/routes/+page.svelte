@@ -31,7 +31,7 @@
 	<header class="my-10 text-center">
 		<h1 class="font-bold text-4xl">Zgadnij liczbę.</h1>
 		<p class="my-1 font-semibold text-xl">
-			Liczba z przedziału od {number - 5} do {number + 5}.
+			Liczba z przedziału od {number - 3} do {number + 7}.
 		</p>
 		<p>
 			Liczba prób <span class="font-semibold">{score}</span>.
